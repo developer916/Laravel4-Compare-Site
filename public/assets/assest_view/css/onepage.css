@@ -1,0 +1,115 @@
+.onepage-title{
+	padding-top:100px;
+	color:#ffffff;
+	
+}
+
+.onepage-title h1{
+	font-size:50px;
+	display:inline-block;
+	font-family: 'Merriweather Sans', sans-serif;
+	text-transform: uppercase;
+	color:#ffffff;
+}
+
+.about-icons i{
+	font-size:100px;
+	color:#ffffff;
+	margin-bottom:20px;	
+}
+
+.about-icons h1{
+	color:#ffffff;
+	margin-bottom:20px;	
+}
+
+.about-icons p{
+	color:#ffffff;
+	margin-bottom:20px;	
+}
+
+.top-menu{
+	height:50px;
+	width:100%;
+	line-height:50px;
+}
+
+.top-menu a{
+	color:#ffffff;
+}
+
+.top-menu li{
+	padding:0px 10px;
+}
+
+.top-menu ul{
+	padding:0px;
+	margin:0px;
+}
+
+
+.fixed-menu{
+	height:50px;
+	width:100%;
+	line-height:50px;
+	z-index:5000;
+	position:fixed;
+	display:none;
+	border-bottom:1px solid #cccccc;
+}
+
+.fixed-menu li{
+	padding:0px 10px;
+}
+
+.fixed-menu ul{
+	padding:0px;
+	margin:0px;
+}
+
+/* Navigation */
+
+.navigation li:hover{
+	cursor:pointer;
+}
+
+
+
+
+
+.slide{
+	background-attachment: fixed;
+	width:100%;
+	height:auto;
+	position: relative;
+	
+}
+
+#slide1about{
+	background:#1fb4da url(../images/onepage/about.jpg);
+	height:300px;
+}
+
+#slide2team{
+	background:#1fb4da url(../images/onepage/team.jpg);
+	height:300px;
+}
+
+#slide3services{
+	background:#1fb4da url(../images/slider-bg-6.jpg) repeat;
+	height:300px;
+}
+
+.slide3services h2{
+	color:#ffffff;	
+}
+
+#slide4portfolio{
+	background:#1fb4da url(../images/onepage/portfolio.jpg);
+	height:300px;
+}
+
+#slide5contact{
+	background:#1fb4da url(../images/slider-bg-6.jpg) repeat;
+	height:300px;
+}

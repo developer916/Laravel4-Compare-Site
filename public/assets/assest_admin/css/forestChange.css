@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+.fontSize20{font-size:20px;}
+#addCategoryDiv{
+	display:none;
+	
+}
+.textcenter{text-align:center;}
+.userPadding10{padding:10px 20px;}
+.fontSize16{
+	font-size:16px;
+}
+.paddingTop13{
+	padding-top:13px;
+}
+.loginTopColor{
+	padding-right:20px!important;
+	color:grey!important;
+}
+.paddingImportant20{
+	padding-right:20px !important;
+}
+.loginFontColor{color:grey!important;}
+
+
